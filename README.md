@@ -1,4 +1,4 @@
-# esp32_usb_soft_host
+# esp32_usb_soft_host_hid
 esp32 USB-LS pure software host thru general IO pins. Up to 4 HID devices simultaneously. 
 
 Code is compatible with ESP-IDF version < 5.0, latest: https://github.com/espressif/esp-idf/releases/tag/v4.4.8
